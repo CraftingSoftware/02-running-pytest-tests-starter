@@ -21,7 +21,9 @@
         "checkmarks",
         "typer",
         "pyenv",
-        "pytest's"
+        "pytest's",
+        "gatorgrade",
+        "gradebook"
     ],
     "ignorePaths": [
         ".github/**"
