@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "practical-03-running-pytest-tests"
+name = "lab02-running-pytest-tests"
 version = "0.1.0"
 description = ""
-authors = ["Maria Kim Heinert <yeeunmariakim@gmail.com>"]
+authors = ["Janyl Jumadinova <jjumadinova@allegheny.edu>"]
 
 [tool.poetry.dependencies]
 python = ">=3.7"
