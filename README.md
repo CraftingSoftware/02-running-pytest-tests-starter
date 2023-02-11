@@ -1,7 +1,5 @@
 # Running Tests with pytest
 
-## Due: Tuesday, September 20th, 2022 at 2:30 pm
-
 ## Introduction
 
 In this lab assignment, you will run tests for an area-calculating module, `area.py`, with [pytest](https://docs.pytest.org). Analyzing the pytest results, you will fix bugs in the tests until all tests pass. Through this exercise, you will put into practice the following learning objective(s):
